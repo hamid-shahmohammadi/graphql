@@ -1,0 +1,6 @@
+npm install --save express nodemon
+npm install --save-dev babel-cli babel-preset-env babel-preset-stage-0
+npm install --save express-graphql graphql
+npm install --save graphql-tools
+npm install --save mongoose
+npm install --save casual lodash sequelize sqlite3
